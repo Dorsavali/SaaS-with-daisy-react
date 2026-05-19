@@ -1,0 +1,210 @@
+{
+  "cards": [
+    {
+      "id": 1,
+      "title": "ChatGPT",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995",
+      "logo": "https://logos-world.net/wp-content/uploads/2023/02/ChatGPT-Logo.png",
+      "badge": "Trending",
+      "desc": "AI assistant for writing, coding, brainstorming and productivity.",
+      "category": "Writing AI",
+      "pricing": "Free / Paid",
+      "rating": 4.9,
+      "tags": ["AI", "Writing"]
+    },
+
+    {
+      "id": 2,
+      "title": "Midjourney",
+      "image": "https://media.licdn.com/dms/image/v2/D4D12AQEgzjjkR88XGg/article-cover_image-shrink_720_1280/B4DZachJMgGgAM-/0/1746382656773?e=2147483647&v=beta&t=ELRTR3xLOfF2qVEmQI_fkm6k_zvNEuY3X3w8hVeXGMk",
+      "logo": "https://logos-world.net/wp-content/uploads/2024/11/Midjourney-Logo-500x281.png",
+      "badge": "Popular",
+      "desc": "Generate stunning AI images and concept art in seconds.",
+      "category": "Design AI",
+      "pricing": "Paid",
+      "rating": 4.8,
+      "tags": ["Design", "Art"]
+    },
+
+    {
+      "id": 3,
+      "title": "Notion AI",
+      "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643",
+      "logo": "https://logos-world.net/wp-content/uploads/2024/08/Notion-Logo-500x281.png",
+      "badge": "Editor's Pick",
+      "desc": "Take notes, organize projects and automate writing workflows.",
+      "category": "Productivity",
+      "pricing": "Free / Paid",
+      "rating": 4.7,
+      "tags": ["Notes", "Productivity"]
+    },
+
+    {
+      "id": 4,
+      "title": "Claude",
+      "image": "https://images.unsplash.com/photo-1676299081847-824916de030a",
+      "logo": "https://cdn.worldvectorlogo.com/logos/claude-logo.svg",
+      "badge": "New",
+      "desc": "Advanced AI assistant for long documents and deep research.",
+      "category": "Research AI",
+      "pricing": "Free",
+      "rating": 4.8,
+      "tags": ["Research", "Documents"]
+    },
+
+    {
+      "id": 5,
+      "title": "Perplexity",
+      "image": "https://tech.az/uploads/659a90995833a4a17a08ea54e721849da7f86c6232405.jpg",
+      "logo": "https://images.seeklogo.com/logo-png/61/2/perplexity-ai-icon-black-logo-png_seeklogo-611679.png",
+      "badge": "Trending",
+      "desc": "AI-powered search engine with cited answers and research.",
+      "category": "Search AI",
+      "pricing": "Free / Pro",
+      "rating": 4.6,
+      "tags": ["Search", "Research"]
+    },
+
+    {
+      "id": 6,
+      "title": "Canva AI",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3",
+      "logo": "https://logos-world.net/wp-content/uploads/2021/11/Canva-Emblem.png",
+      "badge": "Popular",
+      "desc": "Create presentations, graphics and social media content fast.",
+      "category": "Design Tool",
+      "pricing": "Free / Paid",
+      "rating": 4.7,
+      "tags": ["Design", "Content"]
+    }
+  ],
+  "categoris": [
+    {
+      "id": 0,
+      "title": "All"
+    },
+    {
+      "id": 1,
+      "title": "Writing"
+    },
+    {
+      "id": 2,
+      "title": "Video"
+    },
+    {
+      "id": 3,
+      "title": "Design"
+    },
+    {
+      "id": 4,
+      "title": "Coding"
+    },
+    {
+      "id": 5,
+      "title": "Productivity"
+    }
+  ],
+  "testimonials": [
+    {
+      "id": 1,
+      "name": "Sarah Johnson",
+      "role": "Content Creator",
+      "avatar": "https://i.pravatar.cc/150?img=32",
+      "review": "AIStack completely changed the way I discover AI tools. It saves me hours every week."
+    },
+
+    {
+      "id": 2,
+      "name": "Michael Chen",
+      "role": "Startup Founder",
+      "avatar": "https://i.pravatar.cc/150?img=15",
+      "review": "The comparison system is super useful. I finally found the right AI stack for my business."
+    },
+
+    {
+      "id": 3,
+      "name": "Emily Davis",
+      "role": "UI Designer",
+      "avatar": "https://i.pravatar.cc/150?img=44",
+      "review": "Clean interface, helpful reviews, and amazing recommendations."
+    },
+
+    {
+      "id": 4,
+      "name": "David Wilson",
+      "role": "Software Engineer",
+      "avatar": "https://i.pravatar.cc/150?img=12",
+      "review": "I use AIStack daily to explore productivity tools. The curated content is excellent."
+    }
+  ],
+  "pricing": [
+    {
+      "id": 1,
+      "badge": "Starter",
+      "title": "Free",
+      "price": "$0/mo",
+      "popular": false,
+      "features": [
+        "Access to basic AI tools",
+        "Limited daily usage",
+        "Community support",
+        "Basic tool recommendations"
+      ]
+    },
+
+    {
+      "id": 2,
+      "badge": "Most Popular",
+      "title": "Premium",
+      "price": "$29/mo",
+      "popular": true,
+      "features": [
+        "Unlimited AI tool access",
+        "Advanced tool comparison",
+        "Premium recommendations",
+        "Early access to new tools",
+        "Priority support"
+      ]
+    },
+
+    {
+      "id": 3,
+      "badge": "Enterprise",
+      "title": "Business",
+      "price": "$99/mo",
+      "popular": false,
+      "features": [
+        "Team collaboration",
+        "Analytics dashboard",
+        "Custom integrations",
+        "Dedicated support",
+        "Unlimited everything"
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "id": 1,
+      "question": "Is this free?",
+      "answer": "Yes! You can browse and explore AI tools for free. Premium features unlock advanced comparisons and exclusive content."
+    },
+
+    {
+      "id": 2,
+      "question": "Can I compare tools?",
+      "answer": "Absolutely. Our platform lets you compare features, pricing, categories and user ratings to find the best fit."
+    },
+
+    {
+      "id": 3,
+      "question": "Do you offer premium content?",
+      "answer": "Yes. Premium members get curated tool collections, advanced recommendations and early access to new resources."
+    },
+
+    {
+      "id": 4,
+      "question": "How often are tools updated?",
+      "answer": "We update our database weekly to include trending AI tools and fresh recommendations."
+    }
+  ]
+}

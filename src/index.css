@@ -1,0 +1,21 @@
+@import "tailwindcss";
+@plugin "daisyui";
+.hero-bg{
+    background-color: #0f1117;
+    background-image:
+      radial-gradient(
+        circle at top left,
+        rgba(109, 93, 252, 0.25),
+        transparent 25%
+      ),
+      radial-gradient(
+        circle at top right,
+        rgba(59, 130, 246, 0.18),
+        transparent 25%
+      ),
+      radial-gradient(
+        circle at bottom center,
+        rgba(139, 92, 246, 0.14),
+        transparent 25%
+      );
+}
