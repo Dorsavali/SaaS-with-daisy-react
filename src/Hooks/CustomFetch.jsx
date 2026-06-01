@@ -1,7 +1,7 @@
 import { useEffect } from "react";
 import { useState } from "react";
 
-const url = "https://dorsavali.github.io/SaaS-with-daisy-react/db.json";
+const url = "https://aistack.dorsavalli.com/db.json";
 
 const CustomFetch = (section) => {
   const [data, setData] = useState([]);

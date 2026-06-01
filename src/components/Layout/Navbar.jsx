@@ -4,7 +4,7 @@ const Navbar = () => {
       <div className="navbar-start">
         <div className="dropdown">
           <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">
-            <img src="/public/images/logo.svg" alt="logo" />
+            <img src="/images/logo.svg" alt="logo" />
           </div>
           <ul
             tabIndex="-1"

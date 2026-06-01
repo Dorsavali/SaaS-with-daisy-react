@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import CustomFetch from "../CustomFetch/CustomFetch";
+import CustomFetch from "../../Hooks/CustomFetch";
 
 const Categories = () => {
   const data = CustomFetch("categoris");

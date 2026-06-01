@@ -1,4 +1,4 @@
-import CustomFetch from "../CustomFetch/CustomFetch";
+import CustomFetch from "../../Hooks/CustomFetch";
 
 const Faq = () => {
   const faq = CustomFetch("faq");

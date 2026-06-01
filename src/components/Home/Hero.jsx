@@ -10,7 +10,7 @@ const Hero = () => {
     >
       <div className="hero-content flex-col lg:flex-row-reverse">
         <img
-          src="/public/images/hero.png"
+          src="/images/hero.png"
           className="
     max-w-sm
     lg:max-w-xl

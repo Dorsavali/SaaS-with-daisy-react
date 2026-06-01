@@ -1,4 +1,4 @@
-import CustomFetch from "../CustomFetch/CustomFetch";
+import CustomFetch from "../../Hooks/CustomFetch";
 
 const Price = () => {
   const pricing = CustomFetch("pricing");
