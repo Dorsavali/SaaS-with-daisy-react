@@ -3,7 +3,7 @@
     {
       "id": 1,
       "title": "ChatGPT",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995",
+      "image": "/images/ai/chatgpt.webp",
       "logo": "https://logos-world.net/wp-content/uploads/2023/02/ChatGPT-Logo.png",
       "badge": "Trending",
       "desc": "AI assistant for writing, coding, brainstorming and productivity.",
@@ -29,7 +29,7 @@
     {
       "id": 3,
       "title": "Notion AI",
-      "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643",
+      "image": "/images/ai/notion.png",
       "logo": "https://logos-world.net/wp-content/uploads/2024/08/Notion-Logo-500x281.png",
       "badge": "Editor's Pick",
       "desc": "Take notes, organize projects and automate writing workflows.",
@@ -42,7 +42,7 @@
     {
       "id": 4,
       "title": "Claude",
-      "image": "https://images.unsplash.com/photo-1676299081847-824916de030a",
+      "image": "/images/ai/claude.png",
       "logo": "https://cdn.worldvectorlogo.com/logos/claude-logo.svg",
       "badge": "New",
       "desc": "Advanced AI assistant for long documents and deep research.",
